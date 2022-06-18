@@ -1,0 +1,45 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "title": "Wake up",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "drink tea",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "eat maggi",
+      " status": true
+    },
+    {
+      "id": 4,
+      "title": "sleep",
+      "status": false
+    },
+    {
+      "title": "add",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "jungle",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "hlieds",
+      "status": true,
+      "id": 7
+    },
+    {
+      "title": "ad",
+      "status": false,
+      "id": 8
+    }
+   
+  ]
+}
